@@ -1,0 +1,11 @@
+pandas
+numpy==1.26.4
+seaborn==0.9.0
+matplotlib
+scikit-learn
+portalocker>=2.0.0
+plotly
+tqdm
+torch==2.3.0+cpu
+torchdata==0.9.0+cpu
+torchtext==0.18.0+cpu
